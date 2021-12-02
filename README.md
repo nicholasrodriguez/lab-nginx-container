@@ -16,3 +16,4 @@ sudo docker push nicholasrodriguez/lab-nginx-container
 ```
 docker run -it --rm -d -p <SOURCE PORT>:80 --name lab-web-server -v <SOURCE FOLDER>:/usr/share/nginx/html/repos/ lab-nginx-container
 ```
+Test Commit
